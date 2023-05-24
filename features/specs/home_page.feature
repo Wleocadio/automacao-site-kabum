@@ -20,7 +20,7 @@ Então sou redirecionado para a tela de cadastro
 Cenario: validar botão carrinho
 Quando eu clico no botão do carrinho 
 Então sou redirecionado para a tela de carrinho
-
+ 
 @validar_menu_departamentos
 Cenario: validar botão departamento
 Quando eu coloco o mouse no iten departamentos do menu 
